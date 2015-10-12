@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2015-10-09 20:21:02
+<?php /* Smarty version Smarty-3.1.18, created on 2015-10-11 17:23:46
          compiled from "views\home.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:140556028f7ecc4743-02805292%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e64ec67b9351f7c35c643899da1c549889b16a43' => 
     array (
       0 => 'views\\home.tpl',
-      1 => 1444414751,
+      1 => 1444577022,
       2 => 'file',
     ),
   ),
@@ -22,8 +22,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <?php if ($_valid && !is_callable('content_56028f7ed985f6_95035051')) {function content_56028f7ed985f6_95035051($_smarty_tpl) {?><div class="content">
 	<div id="home">
 		<h1>Eminem</h1>
-		<div id="audio">
-			<iframe width="600" height="430" src="//www.cincopa.com/media-platform/iframe.aspx?fid=AMKAM8MbT2nN" frameborder="0" allowfullscreen scrolling="no"></iframe><noscript><span>New Gallery 2015/10/9</span></noscript>
-		</div>
+		<!-- <div id="audio">
+			<iframe width="600" height="430" src="//www.cincopa.com/media-platform/iframe.aspx?fid=AMKAM8MbT2nN" frameborder="0" allowfullscreen scrolling="no"></iframe><noscript></noscript>
+		</div> -->
 	</div>
 </div><?php }} ?>

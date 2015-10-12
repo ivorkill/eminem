@@ -1,4 +1,6 @@
 <?php
+require 'model/timezone.php';
+include 'model/function.php';
 // Gebruikersnaam, wachtwoord van de database etc ophalen
 require 'includes/config.php' ;
 // Laad de Smarty bibliotheek in
